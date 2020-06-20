@@ -1,7 +1,6 @@
 import React from "react";
 
 import "../../../dist/style.css";
-// import ReactTransparentizeVideos from "../../../dist/bundle";
 import ReactTransparentizeVideos from "../../../src/";
 
 import DropletsMain from "../assets/droplets.mp4";
