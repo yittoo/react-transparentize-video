@@ -1,0 +1,14 @@
+.transparentize-video-outer-wrapper,
+.transparentize-video-inner-wrapper {
+  width: 100%;
+  height: 100%;
+}
+
+.transparentize-video-main-video,
+.transparentize-video-alpha-video,
+.transparentize-video-buffer-canvas {
+  display: none;
+}
+
+.transparentize-video-output-canvas {
+}
