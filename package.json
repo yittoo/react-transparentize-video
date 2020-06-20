@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yittoo/react-transparentize-videos.git"
+    "url": "git+https://github.com/yittoo/react-transparentize-video.git"
   },
   "keywords": [
     "transparent",
@@ -24,9 +24,9 @@
   "author": "Yiğit Sözer",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yittoo/react-transparentize-videos/issues"
+    "url": "https://github.com/yittoo/react-transparentize-video/issues"
   },
-  "homepage": "https://github.com/yittoo/react-transparentize-videos#readme",
+  "homepage": "https://github.com/yittoo/react-transparentize-video#readme",
   "devDependencies": {
     "@babel/core": "^7.10.3",
     "@babel/preset-env": "^7.10.3",
