@@ -1,1 +1,19 @@
+# demo
+demo
+
+# source
+scripts
+rollup.config.js
+src
+
+# Package lock
+package-lock.json
+yarn.lock
+
+# Package cache
 node_modules
+
+# dot files
+.babelrc.json
+.gitignore
+.npmignore
