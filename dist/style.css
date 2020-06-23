@@ -11,4 +11,5 @@
 }
 
 .transparentize-video-output-canvas {
+  transform-origin: top left;
 }
