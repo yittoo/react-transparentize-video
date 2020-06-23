@@ -1,6 +1,6 @@
 {
   "name": "react-transparentize-video",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Use html5 canvas to transparentize videos in React ecosystem",
   "main": "dist/index.js",
   "scripts": {
